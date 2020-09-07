@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+    color: blueviolet;
+  }
+  
+  .mycarousel{
+    width: 800px;
+    margin-left: 25%;
+  }
+  
+  .my{
+    text-align: center;
+  }
+  .body{
+      background-color: rgb(255, 204, 204);
+  }
